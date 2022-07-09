@@ -11,3 +11,6 @@ Después de terminar *Aprender suficiente Git para ser peligroso*, sabrás lo su
 ser *peligroso*. Esto significa que podrá usar Git para realizar un seguimiento de los cambios en
 sus proyectos, haga una copia de seguridad de los datos, comparta su trabajo con otros y colabore
 con programadores y otros usuarios de Git.
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
